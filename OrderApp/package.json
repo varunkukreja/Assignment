@@ -1,0 +1,24 @@
+{
+  "name": "orderapp",
+  "version": "1.0.0",
+  "description": "Order App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varun Kukreja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "lokijs": "^1.5.6",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.22",
+    "mongoose-timestamp": "^0.6.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "swagger-jsdoc": "^3.2.8",
+    "swagger-ui-express": "^4.0.2"
+  }
+}
